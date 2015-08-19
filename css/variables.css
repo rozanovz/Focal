@@ -1,4 +1,3 @@
-/* colors */
 /* fonts */
 @font-face {
   font-family: Raleway-Bold;
@@ -20,3 +19,4 @@
   font-family: Raleway-Thin;
   src: url(../fonts/Raleway/Raleway-Thin.ttf);
 }
+/* transitions */
